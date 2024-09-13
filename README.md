@@ -3,7 +3,7 @@
 <h1 align="center">ZenWare</h1>
 <h4 align="center"><b>ZenWare</b> is one of the best Roblox Scripts. It contains various scripts in the loader and is keyless.
 <br>
-It is made by the Zen Team / Mannuhd and Arstwx.
+It is made by the Zen Team / Mannuhd and Rchyx.
 </h4>
 
 <h1 align="center">Script Usage</h1>
