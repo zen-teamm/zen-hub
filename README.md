@@ -1,12 +1,3 @@
-![1000058540](https://github.com/user-attachments/assets/1412e580-66a5-47e8-8e04-fb8802c5fbaa)
+![1000059076](https://github.com/user-attachments/assets/03aabaf6-e572-4f6a-847d-726d3a01087e)
 
-<h1 align="center">ZenWare</h1>
-<h4 align="center"><b>ZenWare</b> is one of the best Roblox Scripts. It contains various scripts in the loader and is keyless.
-<br>
-It is made by the Zen Team / Mannuhd and Rchyx.
-</h4>
-
-<h1 align="center">Script Usage</h1>
-To use the script, please copy this loadstring. Using the file will not work!
-
-<h1 align="center">Update Logs</h1>
+# zenwaree da goat
